@@ -1,4 +1,3 @@
-```md
 # Bash Basics — Section 1
 
 This document contains notes from Section 1 of the Bash course. It covers essential commands and concepts used for basic shell navigation, file manipulation, and text processing. Each topic includes a short explanation and examples.
@@ -217,4 +216,3 @@ This section introduced core Bash commands and concepts including:
 - Understanding shell behavior
 
 These fundamentals are the foundation for scripting and advanced shell usage.
-```
